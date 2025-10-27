@@ -37,8 +37,8 @@ I aim to build intelligent, data-driven systems that accelerate growth, decision
 
 # 📫 Let’s Connect:
 
-[LinkedIn]: (https://www.linkedin.com/in/cavin-lobo-502274379/)
-
-[Portfolio Website]: (https://cavin-lobo-data-scientis-lg1yiod.gamma.site/)
-
-[Email]: (aidigitalmillionaire@gmail.com)
+- [LinkedIn](https://www.linkedin.com/in/cavin-lobo-502274379/)
+  
+- [Portfolio Website](https://cavin-lobo-data-scientis-lg1yiod.gamma.site/)
+  
+- [Email Me](mailto:aidigitalmillionaire@email.com)

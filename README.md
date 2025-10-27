@@ -1,5 +1,6 @@
 # Resume
 Here's my Resume Portfolio of my Profile.
+- [Resume](https://drive.google.com/drive/folders/1OeHQgYo1IFt2ny509BWv6gEyxI0I6NNB?usp=sharing)
 
 # 🧠 AI & Data Science Portfolio
 
